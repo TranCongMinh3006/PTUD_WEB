@@ -1,3 +1,3 @@
-"This repository is belong to <your name>.
-Under the collaboration of: 
-< list of your collaborators> "
+This repository is belong to <your name>.
+Under the collaboration of:   
+1. Nguyễn Đức Minh. 
